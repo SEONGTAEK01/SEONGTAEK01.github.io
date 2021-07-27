@@ -6,3 +6,6 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
+# 2021-07-27 
+Welcome! Taek's very first blog post
+
