@@ -6,6 +6,10 @@ description: "Roll with Taek's interests"
 permalink: /
 ---
 
-# 2021-07-27 
-Welcome! Taek's very first blog post
+# About 
+개발, 책, 사진, 필름,  
+맥주, 위스키, 와인, 사케, 전통주,  
+자동차 관련,  
+프리 다이빙, 서핑, 검도 등등.  
 
+나의 일상과 관심사에 대한 단상, 기록의 공간.
