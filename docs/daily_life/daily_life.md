@@ -7,4 +7,4 @@ permalink: /docs/daily_life
 ---
 
 # Daily Life
-아무거나 편하게.
+아무거나 편하게
