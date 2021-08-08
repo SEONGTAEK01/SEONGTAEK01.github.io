@@ -14,4 +14,3 @@ permalink: /
 
 나의 일상과 관심사에 대한 단상, 기록의 공간  
 
-[SEONGTAEK01 (seongtaek) · GitHub](https://github.com/SEONGTAEK01)
