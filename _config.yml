@@ -14,9 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Taek's Home 
-description: Taek's posts for anything 
+description: Interests in liquors, automobiles, beers, and etc.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://seongtaek01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: SeongTaek Hong
+social:
+    name: SeongTaek Hong
+    links:
+        - https://github.com/SEONGTAEK01
+        - https://untappd.com/user/Taek7937
+        - https://www.vivino.com/users/seongtaek.hong/latest
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
